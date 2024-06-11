@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "afc"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "afc:wood/lumber/teak"
+          }
+        },
+        "pattern": [
+          "CPC",
+          "PPP",
+          "CPC"
+        ],
+        "result": {
+          "item": "functionalstorage:afc_teak_4"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

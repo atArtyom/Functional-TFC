@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tfc"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "tfc:wood/lumber/sycamore"
+          }
+        },
+        "pattern": [
+          "CPC",
+          "PPP",
+          "CPC"
+        ],
+        "result": {
+          "item": "functionalstorage:tfc_sycamore_4"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

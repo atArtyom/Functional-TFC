@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tfc"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "tfc:wood/lumber/white_cedar"
+          }
+        },
+        "pattern": [
+          "PPP",
+          "PCP",
+          "PPP"
+        ],
+        "result": {
+          "item": "functionalstorage:tfc_white_cedar_1"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

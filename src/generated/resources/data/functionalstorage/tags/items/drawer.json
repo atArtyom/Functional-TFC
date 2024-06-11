@@ -1,62 +1,364 @@
 {
-  "replace": false,
   "values": [
-    "functionalstorage:tfc_acacia_1",
-    "functionalstorage:tfc_ash_1",
-    "functionalstorage:tfc_aspen_1",
-    "functionalstorage:tfc_birch_1",
-    "functionalstorage:tfc_blackwood_1",
-    "functionalstorage:tfc_chestnut_1",
-    "functionalstorage:tfc_douglas_fir_1",
-    "functionalstorage:tfc_hickory_1",
-    "functionalstorage:tfc_kapok_1",
-    "functionalstorage:tfc_maple_1",
-    "functionalstorage:tfc_oak_1",
-    "functionalstorage:tfc_palm_1",
-    "functionalstorage:tfc_pine_1",
-    "functionalstorage:tfc_rosewood_1",
-    "functionalstorage:tfc_sequoia_1",
-    "functionalstorage:tfc_spruce_1",
-    "functionalstorage:tfc_sycamore_1",
-    "functionalstorage:tfc_white_cedar_1",
-    "functionalstorage:tfc_willow_1",
-    "functionalstorage:tfc_acacia_2",
-    "functionalstorage:tfc_ash_2",
-    "functionalstorage:tfc_aspen_2",
-    "functionalstorage:tfc_birch_2",
-    "functionalstorage:tfc_blackwood_2",
-    "functionalstorage:tfc_chestnut_2",
-    "functionalstorage:tfc_douglas_fir_2",
-    "functionalstorage:tfc_hickory_2",
-    "functionalstorage:tfc_kapok_2",
-    "functionalstorage:tfc_maple_2",
-    "functionalstorage:tfc_oak_2",
-    "functionalstorage:tfc_palm_2",
-    "functionalstorage:tfc_pine_2",
-    "functionalstorage:tfc_rosewood_2",
-    "functionalstorage:tfc_sequoia_2",
-    "functionalstorage:tfc_spruce_2",
-    "functionalstorage:tfc_sycamore_2",
-    "functionalstorage:tfc_white_cedar_2",
-    "functionalstorage:tfc_willow_2",
-    "functionalstorage:tfc_acacia_4",
-    "functionalstorage:tfc_ash_4",
-    "functionalstorage:tfc_aspen_4",
-    "functionalstorage:tfc_birch_4",
-    "functionalstorage:tfc_blackwood_4",
-    "functionalstorage:tfc_chestnut_4",
-    "functionalstorage:tfc_douglas_fir_4",
-    "functionalstorage:tfc_hickory_4",
-    "functionalstorage:tfc_kapok_4",
-    "functionalstorage:tfc_maple_4",
-    "functionalstorage:tfc_oak_4",
-    "functionalstorage:tfc_palm_4",
-    "functionalstorage:tfc_pine_4",
-    "functionalstorage:tfc_rosewood_4",
-    "functionalstorage:tfc_sequoia_4",
-    "functionalstorage:tfc_spruce_4",
-    "functionalstorage:tfc_sycamore_4",
-    "functionalstorage:tfc_white_cedar_4",
-    "functionalstorage:tfc_willow_4"
+    {
+      "id": "functionalstorage:tfc_acacia_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_ash_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_aspen_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_birch_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_blackwood_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_chestnut_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_douglas_fir_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_hickory_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_kapok_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_mangrove_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_maple_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_oak_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_palm_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_pine_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_rosewood_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_sequoia_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_spruce_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_sycamore_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_white_cedar_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_willow_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_baobab_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_eucalyptus_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_mahogany_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_hevea_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_tualang_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_teak_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_cypress_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_fig_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_ironwood_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_ipe_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_acacia_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_ash_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_aspen_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_birch_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_blackwood_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_chestnut_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_douglas_fir_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_hickory_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_kapok_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_mangrove_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_maple_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_oak_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_palm_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_pine_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_rosewood_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_sequoia_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_spruce_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_sycamore_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_white_cedar_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_willow_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_baobab_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_eucalyptus_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_mahogany_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_hevea_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_tualang_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_teak_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_cypress_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_fig_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_ironwood_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_ipe_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_acacia_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_ash_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_aspen_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_birch_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_blackwood_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_chestnut_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_douglas_fir_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_hickory_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_kapok_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_mangrove_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_maple_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_oak_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_palm_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_pine_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_rosewood_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_sequoia_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_spruce_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_sycamore_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_white_cedar_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:tfc_willow_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_baobab_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_eucalyptus_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_mahogany_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_hevea_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_tualang_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_teak_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_cypress_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_fig_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_ironwood_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:afc_ipe_1",
+      "required": false
+    }
   ]
 }

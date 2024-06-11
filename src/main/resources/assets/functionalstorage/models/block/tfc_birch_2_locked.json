@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/tfc_birch_2",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

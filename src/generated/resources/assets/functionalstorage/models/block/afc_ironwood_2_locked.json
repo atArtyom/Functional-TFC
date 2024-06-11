@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/afc_ironwood_2",
+  "textures": {
+    "lock_icon": "functionalstorage:block/lock"
+  }
+}

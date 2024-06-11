@@ -1,8 +1,0 @@
-{
-  "parent": "functionalstorage:block/base_x_2",
-  "textures": {
-    "particle": "functionalstorage:blocks/tfc_palm_front_2",
-    "front": "functionalstorage:blocks/tfc_palm_front_2",
-    "side": "functionalstorage:blocks/tfc_palm_side"
-  }
-}

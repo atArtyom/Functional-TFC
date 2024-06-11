@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/Mrthomas20121/Functional_TFC/issues"
 
 [[mods]]
 modId="functional_tfc"
-version="0.0.3"
+version="0.0.4"
 displayName="Functional TFC"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/functional_tfc"
 authors="Mrthomas20121"
@@ -23,6 +23,12 @@ Bridge TFC and Functional Storage
 [[dependencies.functional_tfc]]
     modId="tfc"
     mandatory=true
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_tfc]]
+    modId="afc"
+    mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"

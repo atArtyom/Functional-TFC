@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/tfc_hickory_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tfc"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "tfc:wood/lumber/douglas_fir"
+          }
+        },
+        "pattern": [
+          "PCP",
+          "PPP",
+          "PCP"
+        ],
+        "result": {
+          "item": "functionalstorage:tfc_douglas_fir_2"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

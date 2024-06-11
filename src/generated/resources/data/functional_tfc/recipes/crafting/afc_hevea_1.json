@@ -1,0 +1,34 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "afc"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "afc:wood/lumber/hevea"
+          }
+        },
+        "pattern": [
+          "PPP",
+          "PCP",
+          "PPP"
+        ],
+        "result": {
+          "item": "functionalstorage:afc_hevea_1"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}
